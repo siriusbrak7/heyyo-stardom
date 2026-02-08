@@ -1,0 +1,7 @@
+{
+  "name": "Curry Stardom",
+  "description": "A high-conversion professional beat subscription marketplace featuring interactive tempo adjustment, visualizers, and tiered licensing plans.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
